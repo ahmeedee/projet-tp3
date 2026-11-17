@@ -1,0 +1,26 @@
+# Fichiers Java compiles
+*.class
+*.jar
+*.war
+*.ear
+
+# Dossiers de build
+target/
+build/
+out/
+bin/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+
+# Systeme
+.DS_Store
+Thumbs.db
+ci.yml
